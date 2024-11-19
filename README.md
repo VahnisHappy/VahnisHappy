@@ -2,7 +2,7 @@
 
 ---
 
-My name is Vahnใ I'm graduate a bachelor's in Computer Engineering from Chiang Mai University.
+My name is Vahn. I'm graduate a bachelor's in Computer Engineering from Chiang Mai University.
 
 <hr/>
 
