@@ -4,9 +4,8 @@
 
 My name is Vahn. I'm graduate a bachelor's in Computer Engineering from Chiang Mai University.
 
-<hr/>
+---
 
-## Connect with me
 
 <!--
 **VahnisHappy/VahnisHappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
