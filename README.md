@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 <hr/>
-My name is 
+
+My name is Vahn
+
+<hr/>
+
+## Connect with me
 
 <!--
 **VahnisHappy/VahnisHappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
