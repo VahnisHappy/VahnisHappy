@@ -7,7 +7,7 @@ My name is Vahn. I'm graduate a bachelor's in Computer Engineering from Chiang M
 ---
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/sopida-kiti-4ba295296/)
-- [Email](mailto:sopiiida@gmail.com]
+- [Email](mailto:sopiiida@gmail.com)
 
 ---
 
